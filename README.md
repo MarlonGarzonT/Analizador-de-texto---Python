@@ -15,5 +15,5 @@ Este es un proyecto sencillo en Python que analiza un texto ingresado por el usu
 3. Ejecuta el archivo `.py` en la terminal o desde tu IDE favorito:
 
 ```bash
-python analizador_texto.py
+python Proyecto-2.py
 
